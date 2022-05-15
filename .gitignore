@@ -1,0 +1,3 @@
+# 项目排除路径
+/boot-05-web/target/
+/boot-05-web-admin/target/
